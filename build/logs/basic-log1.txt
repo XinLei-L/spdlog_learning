@@ -1,0 +1,8 @@
+[2023-10-09 17:17:50.666] [file_logger] [info] 这是一条信息日志
+[2023-10-09 17:17:50.666] [file_logger] [warning] 这是一条警告日志
+[2023-10-09 17:17:50.666] [file_logger] [error] 这是一条错误日志
+[2023-10-09 17:17:50.666] [file_logger] [info] 格式化日志消息：Hello, World!
+[2023-10-09 17:18:13.617] [file_logger] [info] 这是一条信息日志
+[2023-10-09 17:18:13.617] [file_logger] [warning] 这是一条警告日志
+[2023-10-09 17:18:13.617] [file_logger] [error] 这是一条错误日志
+[2023-10-09 17:18:13.617] [file_logger] [info] 格式化日志消息：Hello, World!

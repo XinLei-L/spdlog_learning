@@ -1,0 +1,6 @@
+/home/lxl/project/spdlog_test/build/CMakeFiles/test1.dir
+/home/lxl/project/spdlog_test/build/CMakeFiles/test2.dir
+/home/lxl/project/spdlog_test/build/CMakeFiles/test3.dir
+/home/lxl/project/spdlog_test/build/CMakeFiles/test4.dir
+/home/lxl/project/spdlog_test/build/CMakeFiles/edit_cache.dir
+/home/lxl/project/spdlog_test/build/CMakeFiles/rebuild_cache.dir
